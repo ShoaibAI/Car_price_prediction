@@ -19,8 +19,4 @@ This project builds an end-to-end machine learning regression model to predict u
 
 Make sure you have the required packages installed before running the notebook:
 
-## Interactive Dashboard Preview
-
-![Smart Car Price Predictor Dashboard](dashboard.png)
-
 pip install pandas numpy scikit-learn matplotlib seaborn gradio
